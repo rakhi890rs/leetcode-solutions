@@ -37,6 +37,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0136-single-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0048-rotate-image](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
