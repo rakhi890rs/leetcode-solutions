@@ -21,6 +21,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
