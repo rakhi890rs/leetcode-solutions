@@ -55,6 +55,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -98,6 +99,11 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0344-reverse-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
