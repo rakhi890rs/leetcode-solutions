@@ -57,6 +57,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0027-remove-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -93,4 +94,8 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
