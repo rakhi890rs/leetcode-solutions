@@ -102,6 +102,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0344-reverse-string) |
+| [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
 ## String Matching
 |  |
 | ------- |
