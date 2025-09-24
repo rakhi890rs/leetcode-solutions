@@ -28,6 +28,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -49,6 +50,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0075-sort-colors](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -105,6 +107,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
