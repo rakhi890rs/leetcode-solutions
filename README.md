@@ -26,6 +26,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0434-number-of-segments-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
