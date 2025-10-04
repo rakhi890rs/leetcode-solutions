@@ -100,6 +100,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0202-happy-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -149,4 +150,5 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0050-powx-n](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
