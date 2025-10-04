@@ -89,6 +89,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0189-rotate-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -154,4 +156,8 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0231-power-of-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
