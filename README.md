@@ -49,12 +49,14 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0287-find-the-duplicate-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1797-goal-parser-interpretation](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
+| [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
