@@ -161,6 +161,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0345-reverse-vowels-of-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
