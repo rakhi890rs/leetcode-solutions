@@ -45,6 +45,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0268-missing-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
@@ -54,6 +55,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -159,6 +161,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0242-valid-anagram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0520-detect-capital) |
