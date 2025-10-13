@@ -1,13 +1,11 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        set<char> st;
-        for(char ch:s){
-            if(st.count(ch)){
-                return ch;
-            }      
-        st.insert(ch);
-        }
-        return ' ';
-    }  
+     unordered_map<int,char> freq;
+       for(char c:s){
+        freq[c]++;
+        if(freq[c]==2)return c;
+       }
+       return ' ';
+    }
 };
