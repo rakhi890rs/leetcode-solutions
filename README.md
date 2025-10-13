@@ -37,6 +37,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
@@ -57,6 +58,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +185,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 ## String Matching
 |  |
 | ------- |
