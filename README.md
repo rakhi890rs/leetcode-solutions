@@ -6,6 +6,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -41,6 +42,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0217-contains-duplicate) |
