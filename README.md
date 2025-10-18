@@ -38,6 +38,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -145,6 +146,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -212,6 +214,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
 | ------- |
