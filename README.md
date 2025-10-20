@@ -41,6 +41,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -132,6 +133,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0258-add-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +205,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
