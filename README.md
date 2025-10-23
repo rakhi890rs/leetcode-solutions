@@ -33,6 +33,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0349-intersection-of-two-arrays](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
@@ -64,6 +65,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -250,6 +252,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Stack
