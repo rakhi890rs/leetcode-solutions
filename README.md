@@ -39,6 +39,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -106,6 +107,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -270,4 +272,8 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0204-count-primes) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
