@@ -276,4 +276,12 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
