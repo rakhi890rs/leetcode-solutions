@@ -4,8 +4,10 @@
  * @return {number}
  */
 var getSum = function(a, b) {
-    let sum=0;
-    let carry=0;
-    let result = a+b;
-    return result;
+   while(b!=0){
+    let carry=(a & b)<<1;
+    a=a^b;
+    b=carry;
+   }
+   return a;
 };
