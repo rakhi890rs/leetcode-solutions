@@ -139,6 +139,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0908-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -304,6 +305,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0206-reverse-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
