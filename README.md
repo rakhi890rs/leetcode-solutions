@@ -243,6 +243,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
@@ -286,6 +287,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0143-reorder-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
@@ -322,5 +324,6 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
