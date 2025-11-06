@@ -301,6 +301,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0225-implement-stack-using-queues](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
 |  |
@@ -341,10 +342,12 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0225-implement-stack-using-queues](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Trie
 |  |
@@ -354,4 +357,5 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
