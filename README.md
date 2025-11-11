@@ -50,6 +50,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1603-running-sum-of-1d-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -160,6 +161,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0258-add-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
@@ -186,6 +188,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Divide and Conquer
@@ -258,6 +261,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0232-implement-queue-using-stacks](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -274,6 +278,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0326-power-of-three](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
