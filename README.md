@@ -16,6 +16,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0048-rotate-image](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -370,4 +372,8 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0084-largest-rectangle-in-histogram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
