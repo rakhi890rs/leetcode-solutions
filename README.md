@@ -40,6 +40,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0525-contiguous-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
