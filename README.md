@@ -66,6 +66,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
