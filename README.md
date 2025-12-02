@@ -401,4 +401,16 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0046-permutations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
