@@ -174,6 +174,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -199,6 +200,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0326-power-of-three](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -255,6 +257,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0345-reverse-vowels-of-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
