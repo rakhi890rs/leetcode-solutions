@@ -45,6 +45,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0643-maximum-average-subarray-i](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0978-valid-mountain-array) |
@@ -241,6 +242,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0349-intersection-of-two-arrays](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
