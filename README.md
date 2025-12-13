@@ -54,6 +54,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
@@ -245,6 +246,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0852-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
