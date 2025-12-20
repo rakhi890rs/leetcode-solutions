@@ -96,6 +96,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0525-contiguous-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -286,6 +287,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
