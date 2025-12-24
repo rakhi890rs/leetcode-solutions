@@ -6,7 +6,6 @@ public:
      int ans=INT_MAX;
      for(int r=0;r<nums.size();r++){
         sum+=nums[r];
-     
      while(sum>=target){
         ans=min(ans,r-l+1);
         sum-=nums[l];
