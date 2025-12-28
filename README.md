@@ -143,6 +143,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -295,6 +296,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## String Matching
 |  |
 | ------- |
