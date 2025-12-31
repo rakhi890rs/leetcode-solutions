@@ -290,6 +290,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1108-defanging-an-ip-address](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
+| [1392-longest-happy-prefix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
@@ -304,6 +305,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Queue
 |  |
 | ------- |
@@ -448,4 +450,12 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
