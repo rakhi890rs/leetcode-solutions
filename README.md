@@ -172,6 +172,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0349-intersection-of-two-arrays](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -406,6 +407,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0237-delete-node-in-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0838-design-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0838-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
