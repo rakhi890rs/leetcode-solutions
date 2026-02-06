@@ -1,25 +1,15 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-       int freq[123]={0};
-       if(s.length()!=t.length()){
+      sort(s.begin(),s.end());
+      sort(t.begin(),t.end());
+      if(s.size()!=t.size()){
         return false;
-       }else{
-        for(int i=0;i<s.length();i++){
-            char ch=s[i];
-            freq[int(ch)]++;
+      }
+      if(s==t){
+        return true;}
+        else{
+            return false;
         }
-        for(int i=0;i<t.length();i++){
-            char ch=t[i];
-            freq[int(ch)]--;
-        }
-        for(int i=0;i<123;i++){
-            if(freq[i]!=0){
-                return false;
-            }
-        }
-       }
-       return true;
-
     }
 };
