@@ -44,6 +44,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0349-intersection-of-two-arrays](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0383-ransom-note](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -140,6 +142,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0349-intersection-of-two-arrays](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
