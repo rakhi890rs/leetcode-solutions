@@ -292,6 +292,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0409-longest-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0742-to-lower-case) |
@@ -313,6 +314,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Queue
 |  |
