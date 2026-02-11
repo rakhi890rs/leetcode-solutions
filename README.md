@@ -28,6 +28,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -215,6 +216,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0050-powx-n](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0204-count-primes) |
@@ -377,6 +379,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0020-valid-parentheses](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
