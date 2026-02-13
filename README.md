@@ -310,6 +310,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
@@ -378,6 +379,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -400,6 +402,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0496-next-greater-element-i](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
