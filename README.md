@@ -61,6 +61,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -409,6 +410,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0844-backspace-string-compare](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
 |  |
@@ -448,6 +450,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0838-design-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
@@ -477,6 +480,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0503-next-greater-element-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Backtracking
 |  |
 | ------- |
