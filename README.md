@@ -73,6 +73,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -213,6 +214,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
@@ -344,6 +346,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0622-design-circular-queue](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Recursion
 |  |
 | ------- |
