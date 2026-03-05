@@ -252,6 +252,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -373,6 +374,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0204-count-primes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
