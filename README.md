@@ -59,6 +59,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0852-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -154,6 +155,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -260,6 +262,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0169-majority-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -436,6 +439,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 ## Linked List
 |  |
@@ -549,4 +553,20 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
