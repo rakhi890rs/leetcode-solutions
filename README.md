@@ -507,6 +507,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -535,6 +536,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -542,6 +544,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -552,6 +555,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Heap (Priority Queue)
 |  |
