@@ -11,21 +11,19 @@
  */
 class Solution {
 public:
+    int kthSmallest(TreeNode* root, int k) {
+        int ans;
+        inorder(root,k,ans);
+        return ans;
+    }
     void inorder(TreeNode* root,int &k,int &ans){
-        if(!root || k==0) return;
+        if(!root || !k) return;
         inorder(root->left,k,ans);
-         if (k == 0) return;
-
         k--;
-        if (k == 0) {
-            ans = root->val;
+        if(k==0){
+            ans=root->val;
             return;
         }
         inorder(root->right,k,ans);
-    }
-    int kthSmallest(TreeNode* root, int k) {
-        int ans=-1;
-        inorder(root,k,ans);
-        return ans;
     }
 };
