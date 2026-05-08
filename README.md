@@ -166,6 +166,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
@@ -565,6 +566,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0701-insert-into-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -582,11 +584,13 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0701-insert-into-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
