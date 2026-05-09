@@ -271,6 +271,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0191-number-of-1-bits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -403,6 +404,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -531,6 +533,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1382-balance-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph
 |  |
 | ------- |
@@ -570,6 +573,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -590,6 +594,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -611,6 +616,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
