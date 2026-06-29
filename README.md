@@ -540,6 +540,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0743-network-delay-time](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -617,6 +618,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0200-number-of-islands](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -639,6 +641,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -662,9 +665,14 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0207-course-schedule](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
