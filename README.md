@@ -60,6 +60,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0643-maximum-average-subarray-i](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -287,6 +288,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
