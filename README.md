@@ -38,6 +38,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -287,6 +288,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0070-climbing-stairs](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
