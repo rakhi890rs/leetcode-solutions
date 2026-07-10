@@ -392,6 +392,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0509-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -449,6 +450,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -492,6 +494,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0908-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -522,6 +525,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0937-online-stock-span](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
