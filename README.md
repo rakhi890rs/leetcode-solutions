@@ -53,6 +53,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0349-intersection-of-two-arrays](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -295,6 +296,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
