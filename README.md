@@ -19,6 +19,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0051-n-queens](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -157,6 +158,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0148-sort-list) |
