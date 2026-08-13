@@ -83,6 +83,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1651-shuffle-string) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-sum-of-unique-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2058-concatenation-of-array) |
