@@ -48,6 +48,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0219-contains-duplicate-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -152,6 +153,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0136-single-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0342-power-of-four) |
