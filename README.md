@@ -712,4 +712,8 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
