@@ -81,6 +81,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
