@@ -76,6 +76,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0882-peak-index-in-a-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -182,6 +183,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0442-find-all-duplicates-in-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-sort-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -223,6 +225,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0844-backspace-string-compare](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
