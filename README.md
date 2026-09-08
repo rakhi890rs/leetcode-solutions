@@ -295,6 +295,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
