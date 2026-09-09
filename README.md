@@ -300,6 +300,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
