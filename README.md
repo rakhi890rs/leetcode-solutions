@@ -108,6 +108,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2714-left-and-right-sum-differences](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -438,6 +440,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -509,6 +512,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0204-count-primes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
 | ------- |
