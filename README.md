@@ -232,6 +232,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0349-intersection-of-two-arrays](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -297,6 +298,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0412-fizz-buzz](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -388,6 +390,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0434-number-of-segments-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0556-next-greater-element-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0742-to-lower-case) |
