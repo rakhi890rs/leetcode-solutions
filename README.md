@@ -109,6 +109,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2714-left-and-right-sum-differences](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -201,6 +202,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -337,6 +339,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0509-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -365,6 +368,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1468-check-if-n-and-its-double-exist](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
