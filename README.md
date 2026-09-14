@@ -303,6 +303,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0415-add-strings](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
+| [0836-rectangle-overlap](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -771,4 +772,8 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
