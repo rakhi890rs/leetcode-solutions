@@ -32,6 +32,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0088-merge-sorted-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -331,6 +332,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0053-maximum-subarray](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0198-house-robber) |
