@@ -247,6 +247,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -344,6 +345,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0509-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -417,6 +419,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2502-sort-the-people](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## String Matching
@@ -481,6 +484,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0409-longest-palindrome](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
