@@ -313,6 +313,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0556-next-greater-element-iii](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -790,6 +791,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Manacher
 |  |
 | ------- |
