@@ -111,6 +111,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -540,6 +541,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | ------- |
 | [0204-count-primes](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
