@@ -118,6 +118,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -497,6 +499,7 @@ This repository contains my curated solutions to LeetCode problems, written in C
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakhi890rs/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rakhi890rs/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rakhi890rs/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
