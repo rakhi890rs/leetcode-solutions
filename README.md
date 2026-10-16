@@ -807,4 +807,8 @@ This repository contains my curated solutions to LeetCode problems, written in C
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rakhi890rs/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
